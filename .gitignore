@@ -42,5 +42,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-/shared/shared.dart
-/shared/const.dart
+/lib/shared/const.dart
+/lib/shared/shared.dart
